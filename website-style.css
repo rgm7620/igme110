@@ -97,6 +97,8 @@ h3{
     grid-row: 1/2;
     padding: 5px;
     color: rgb(255, 255, 119);
+    justify-self: left;
+    align-self: flex-start;
 }
 
 a:visited{
